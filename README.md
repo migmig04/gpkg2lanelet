@@ -1,2 +1,2 @@
 # gpkg2lanelet
-GeoPackage to Lanelet2 convertion tool.
+A GeoPackage to Lanelet2 conversion tool for HD Map primitives.
